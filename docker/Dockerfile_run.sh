@@ -78,3 +78,14 @@ LOGS=["app","nginx","passenger","mysql","redis"]
 
 # def hook(var)
   # ...
+
+
+#### bitcoind part
+#
+# download bitcoind
+# configuration file
+# cli / ruby api
+# connect
+# get balance
+# generate address
+# send
